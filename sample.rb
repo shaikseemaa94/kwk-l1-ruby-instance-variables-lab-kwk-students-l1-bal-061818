@@ -1,4 +1,4 @@
-class Cars  
+class Cars
 
   def initialize(model, make, years)
     @model = model
